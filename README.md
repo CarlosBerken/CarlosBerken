@@ -5,7 +5,7 @@
 <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBerken&layout=compact&langs_count=7&theme=dark">
 </div>
 <div style= "display: inline_block"><br/>
-<a href="[https://www.instagram.com/carlosberken/](https://www.instagram.com/carlosberken/)" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)" target="_blank"></a>
-<a href="[https://www.twitch.tv/fallkess_](https://www.twitch.tv/fallkess_)" target="_blank"><img src="[https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/carlos-henrique-agostinho-berkenbrock-33875516a/](https://www.linkedin.com/in/carlos-henrique-agostinho-berkenbrock-33875516a/)" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank"></a>
+<img align="center" alt="Python" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />">
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="HTML" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />">
 </div>
